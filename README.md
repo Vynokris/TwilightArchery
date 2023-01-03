@@ -4,6 +4,7 @@
 Trello: [Twilight Archery Trello](https://trello.com/b/5qpmZN9g/twilight-archery) <br>
 Game Design Document: [GDD](https://docs.google.com/document/d/1alyK2vPHPSm90NmQqsHbEGwX5jF0s-t6WQVCs1JFY18/edit)
 
+Unfortunately the project source code isn't available as the assets are way too heavy for my GitHub storage :/ <br>
 Project by the **Pickle Studio**, composed of Rémi Serra, Maël Jammet, Nino Masseteau and Julien Bertrand. <br>
 This is a school project made in ISART Digital Paris. <br>
 
