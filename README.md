@@ -1,7 +1,6 @@
 # **Unreal TPS - Twilight Archery**
 
 ## **Project information**
-Game Design Document: [GDD](https://docs.google.com/document/d/1alyK2vPHPSm90NmQqsHbEGwX5jF0s-t6WQVCs1JFY18/edit)
 
 Unfortunately the project assets aren't available as they are way too heavy for my GitHub storage :/ <br>
 Project by the **Pickle Studio**, composed of Rémi Serra, Maël Jammet, Nino Masseteau and Julien Bertrand. <br>
