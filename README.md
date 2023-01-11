@@ -5,7 +5,7 @@
 Unfortunately the project assets aren't available as they are way too heavy for my GitHub storage :/ <br>
 Project by the **Pickle Studio**, composed of Rémi Serra, Maël Jammet, Nino Masseteau and Julien Bertrand. <br>
 This is a school project made in ISART Digital Paris. <br>
-
+ 
 <img src="./ReadmeResources/PickleStudio.png" style="width:150px;"> 
 <br><br>
 
